@@ -1,4 +1,4 @@
 #ignorer ces fichier lors d'un git add
-Naudy_Antoine_DS6.zip
-Dataset+projet+prétraitement+textes+images.zip
+.ipynb_checkpoints/*
+*.zip
 *.pptx
